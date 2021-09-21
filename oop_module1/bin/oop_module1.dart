@@ -1,3 +1,5 @@
+//This is a Membership Loyalty Program for a grocery chain
+
 class Customer {
   String _membershipType = '';
   String _firstName = '';
